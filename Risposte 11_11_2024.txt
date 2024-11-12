@@ -1,0 +1,3 @@
+- Un algoritmo è una serie di step che accomunati risolvono un determinato problema.
+- Una variabile in JS, una volta dichiarata, è un contenitore che al suo interno po' contenere determinati elementi o essere vuota.
+- La differenza tra variabile null e una variabile undefined è che quella null è dichiarata da noi come "senza elementi" invece undefined è perché bisogna ancora assegnarli valori.
